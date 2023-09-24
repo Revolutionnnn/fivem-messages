@@ -1,1 +1,1 @@
-Este codigo funciona para colocar una ruta en el radar
+Este codigo funciona para colocar una ruta en el radar colocando /mision
